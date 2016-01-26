@@ -3,7 +3,7 @@ Package.describe({
   version: '0.0.1',
   summary: 'Internal package used by mpowaga:template-schema',
   git: 'https://github.com/mpowaga/meteor-template-schema.git',
-  documentation: 'README.md',
+  documentation: null,
   debugOnly: true
 });
 
